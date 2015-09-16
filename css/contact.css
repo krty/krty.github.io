@@ -1,7 +1,7 @@
 .model-container3{
 	margin-top:0%;
 	width:70%;
-	height:500px;
+	height:475px;
 	float:right;
 	margin-left:1%;
 	overflow: hidden;
@@ -10,6 +10,16 @@
 p{
 	color:grey;
 }
+.border-bot{
+	margin-top:2%;
+	width:100%;
+}
+.border-ll{
+	width:46%;
+	border-top:1px solid #D8D8D8;
+	
+}
+
 .model-head3{
 	width:45%;
 	
