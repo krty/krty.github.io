@@ -24,7 +24,7 @@ h1{
 .model1l{
 	width:45%;
 	
-	border-top:1px solid #D8D8D8;
+	
 	padding-top:8%;
 	padding-bottom:14%;
 	margin-top: -2%;
@@ -32,7 +32,7 @@ h1{
 .model1r{
 	width:47%;
 	float:right;
-	border-top:1px solid #D8D8D8;
+	
 	padding-top:4%;
 	padding-bottom:5%;
 	margin-top:-2%;
@@ -49,12 +49,12 @@ h1{
 }
 .border-l{
 	width:46%;
-	border-bottom:1px solid #D8D8D8;
+	
 }
 .border-r{
 	float:right;
 	width: 49%;
-	border-bottom:1px solid #D8D8D8;
+	
 }
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 767px) {
