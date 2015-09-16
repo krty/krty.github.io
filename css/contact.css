@@ -1,0 +1,35 @@
+.model-container3{
+	margin-top:0%;
+	width:70%;
+	height:500px;
+	float:right;
+	margin-left:1%;
+	overflow: hidden;
+	
+}
+p{
+	color:grey;
+}
+.model-head3{
+	width:45%;
+	
+	border-top:1px solid #D8D8D8;
+	padding-top:5%;
+	padding-bottom:9%;
+	margin-top: -2%;
+}
+.model3l{
+	width:45%;
+	
+	border-top:1px solid #D8D8D8;
+	padding-top:3%;
+	padding-bottom:0%;
+	margin-top: -2%;
+}
+
+@media only screen and (min-width: 1224px) and (max-width: 1823px){
+	.nav-container{
+	          width:19%;
+    }
+  
+}

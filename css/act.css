@@ -1,0 +1,27 @@
+
+.border-top1{
+	width:47%;
+	float:right;
+	border-top:1px solid #D8D8D8;
+	margin-top:-2%;
+}
+.model-head1 p
+ {
+	font-size: 25px;
+}
+.model-head1{
+	width:45%;
+	
+	border-top:1px solid #D8D8D8;
+	padding-top:5%;
+	padding-bottom:8%;
+	margin-top: -2%;
+}p{
+	color:grey;
+}
+@media only screen and (min-width:1790px) and (max-width: 1644px){
+	.nav-container{
+	          width:23%;
+    }
+
+}

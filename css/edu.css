@@ -1,0 +1,99 @@
+.container1{
+	margin-left:0%;
+	margin-right:22%;	
+	padding-left:1%;
+	padding-right:1%;
+	height:1000px;
+	padding-bottom:0%;
+	overflow:hidden;
+
+}
+h1{
+	color:grey;
+}
+
+.model-container1{
+	margin-top:0%;
+	width:70%;
+	height:922px;
+	float:right;
+	margin-left:1%;
+	overflow: hidden;
+	
+}
+.model1l{
+	width:45%;
+	
+	border-top:1px solid #D8D8D8;
+	padding-top:8%;
+	padding-bottom:14%;
+	margin-top: -2%;
+}
+.model1r{
+	width:47%;
+	float:right;
+	border-top:1px solid #D8D8D8;
+	padding-top:4%;
+	padding-bottom:5%;
+	margin-top:-2%;
+}
+.a1{
+    color:grey;
+	line-height: 1.5;
+    font-size: 19px;
+
+}
+.border-bot{
+	margin-top:2%;
+	width:100%;
+}
+.border-l{
+	width:46%;
+	border-bottom:1px solid #D8D8D8;
+}
+.border-r{
+	float:right;
+	width: 49%;
+	border-bottom:1px solid #D8D8D8;
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 767px) {
+	.nav-container{
+		width:26%;
+		top:0.3%;}
+
+}
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) {
+.nav-container{
+	width:26%;}
+
+} 
+@media only screen and (min-width:1025px) and (max-width: 1224px) {
+	.nav-container{
+	          width:23%;
+    }
+	.model-container{
+		width:70%;
+	}
+	.container{
+		width:1024px;
+	}
+  
+}
+@media only screen and (min-width: 1224px) {
+	.model-container1{
+		width:68%;
+	}
+	.container{
+		width:1024px;
+	}
+	.nav-container{
+	          width:14%;
+    }
+}
+@media only screen and (min-width: 1824px) {
+	.nav-container{
+	          width:14%;
+    }
+  
+}
