@@ -1,8 +1,16 @@
-
+.model-container11{
+	margin-top:0%;
+	width:70%;
+	
+	float:right;
+	margin-left:1%;
+	overflow: hidden;
+	
+}
 .border-top1{
 	width:47%;
 	float:right;
-	border-top:1px solid #D8D8D8;
+	
 	margin-top:-2%;
 }
 .model-head1 p
@@ -10,9 +18,9 @@
 	font-size: 25px;
 }
 .model-head1{
-	width:45%;
+	width:100%;
 	
-	border-top:1px solid #D8D8D8;
+	
 	padding-top:5%;
 	padding-bottom:8%;
 	margin-top: -2%;
