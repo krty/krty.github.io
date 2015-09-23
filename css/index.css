@@ -81,7 +81,7 @@ p{
     margin-bottom:0%;
     }
     .ImageDesc6{
-	margin-top:-19%;
+	margin-top:11%;
 	padding-top:7%;
 	line-height: 1.5;
     font-size: 19px;
@@ -89,13 +89,13 @@ p{
     }
     .ImageDesc1{
 	margin-top:0%;
-	padding-top:7%;
+	padding-top:30%;
 	line-height: 1.5;
     font-size: 19px;
     margin-bottom:9%;
     }
     .ImageDesc3{
-	margin-top:-14%;
+	margin-top:6%;
 	padding-top:8%;
 	line-height: 1.5;
     font-size: 19px;
@@ -317,7 +317,7 @@ h4.tech-desc{
 }
 
 h3.tech-title{
-	margin-top:30px;
+	margin-top:8px;
 	font-weight: 500;
     font-size: 28px;
     color: #666;
