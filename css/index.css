@@ -18,6 +18,16 @@ p{
 	margin-right: -398px;
 	margin-left: 337px;
 }
+a.icon1:hover{
+color:#37538E;
+
+}
+ a.icon2:hover{
+color:#53A7E7;
+}
+ a.icon3:hover{
+color:#007bb6;
+}
 
 
 .container{
